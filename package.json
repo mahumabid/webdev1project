@@ -1,0 +1,24 @@
+{
+  "name": "webdev1project",
+  "version": "1.0.0",
+  "description": "This is my induvidual project for class using node, playwright and git",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahumabid/webdev1project.git"
+  },
+  "keywords": [
+    "example",
+    "student",
+    "project"
+  ],
+  "author": "Mahum Abid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahumabid/webdev1project/issues"
+  },
+  "homepage": "https://github.com/mahumabid/webdev1project#readme"
+}
